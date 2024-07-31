@@ -1,0 +1,6 @@
+@DotnetEventSourcing_HostAddress = http://localhost:5090
+
+GET {{DotnetEventSourcing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
